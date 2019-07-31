@@ -1,7 +1,7 @@
-# Project for Probabilistic Modelling
+## Project for Probabilistic Modelling
 
-# Hotspot Prediction Model using Bayesian approach
+## Hotspot Prediction Model using Bayesian approach
 
-# Bayesian Hierachical Model
+## Bayesian Hierachical Model
 
-# Authors - Tim R. Schleicher, Eda D. Özdemir and Gururaj M Desai
+### Authors - Tim R. Schleicher, Eda D. Özdemir and Gururaj M Desai
