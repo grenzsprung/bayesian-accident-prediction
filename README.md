@@ -1,4 +1,4 @@
-# Probabilistic Modelling @ Leuphana
+# Probabilistic Modelling @ Leuphana University
 ## Spring 2019 - Project for Probabilistic Modelling
 ## "How a Bayesian Hierarchical Model makes our roads safer"
 
